@@ -1,18 +1,18 @@
 ---
-author: epidrome
-title: "Alan Kay"
-image_url: /images/alan-kay.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+author: geosideras
+title: "Katherine Johnson"
+image_url: /images/katherine-johnson.jpg
+caption: "Η Katherine Johnson δούλεψε για την NASA και έπαιξε σημαντικό ρόλο στον υπολογισμό της τροχίας , της πτήσης του Apollo 11."
 categories:
   - biography
   - definition
 tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Katherine Johnson
+  - John Glen
+  - NASA
+  - Apollo 11
+  - Mathematician 
+  - West Virginia
 gallery:
   - image_url: /images/dynabook.png
     caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
