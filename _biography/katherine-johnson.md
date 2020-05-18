@@ -1,7 +1,7 @@
 ---
 author: geosideras
 title: "Katherine Johnson"
-image_url: /images/katherine-johnson.jpg
+image_url: /images/johnson1.jpg
 caption: "Η Katherine Johnson δούλεψε για την NASA και έπαιξε σημαντικό ρόλο στον υπολογισμό της τροχίας , της πτήσης του Apollo 11."
 categories:
   - biography
